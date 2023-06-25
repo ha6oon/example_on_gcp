@@ -1,2 +1,3 @@
-# example_on_gcp
-cloudbuild_sample
+# quickstart-build
+Code example used in the Build quickstart
+https://cloud.google.com/build/docs/quickstart-build
